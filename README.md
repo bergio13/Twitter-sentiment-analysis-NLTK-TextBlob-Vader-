@@ -1,2 +1,2 @@
-# Twitter-sentiment-analysis-NLTK-TextBlob-Vader
+# Twitter-sentiment-analysis-NLTK-TextBlob-Vader-Bert
 
